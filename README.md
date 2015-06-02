@@ -13,6 +13,9 @@ This bare metal source finds application in porting Real Time Operating System
 
 # How to compile?
 
+* Download the toolchain from [here](https://github.com/raspberrypi/tools/tree/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64) and setup $PATH environment variable to downloaded toolchain path.
+* Run,
+
 Linux> make
 
 This generates 'rpi2boot.bin' image which is ready to flash.
