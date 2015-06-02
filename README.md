@@ -1,4 +1,4 @@
-# RPI2 Bare Metal Source
+# Raspberry Pi 2 Bare Metal Source
 
 This repository contains bare metal source that will boot up RPI2.  Briefly,
 it does following:
